@@ -14,8 +14,11 @@ This project demonstrates:
 
 ## 📐 Architecture
 Internet
+
 │
+
 ▼
+
 ┌─────────────────────────────────────────┐
 
 │ VPC (10.0.0.0/16) │
